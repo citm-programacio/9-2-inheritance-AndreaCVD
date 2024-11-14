@@ -80,6 +80,7 @@ public:
 //Your program must create one of each class and use their print function to display the data
 
 int main() {
+	// Create a Warehouse object
 	Warehouse warehouse("Central Warehouse", 1000, 500, 300);
 	warehouse.printResources();
 
